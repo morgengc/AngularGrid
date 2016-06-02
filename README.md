@@ -21,6 +21,11 @@ For another reason, build a grid plugin based on angular.js by myself is an inte
 ##How to use?##
 Download the code, put the angrid.js and angrid.css in your project directory.
 
+Use this commond to run demo code:
+```
+./scripts/web-server.js
+```
+
 ##Examples##
 Download the code and just look the folder "demo"
 
